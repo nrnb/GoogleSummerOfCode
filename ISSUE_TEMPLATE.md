@@ -29,5 +29,5 @@ Describe here with a setence or two why the project is this difficulty level.
 
 ### Potential mentors
 
-My Name (mailto:myname@yadayadayada.com), Someone Else (mailto:someoneelse@blahblahblah.com)
+[My Name](mailto:myname@yadayadayada.com), [Someone Else](mailto:someoneelse@blahblahblah.com)
 
