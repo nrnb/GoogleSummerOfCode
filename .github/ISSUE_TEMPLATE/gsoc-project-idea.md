@@ -19,6 +19,16 @@ Describe what the end result of the GSoC project should be.
 Give a difficulty level (to replace X) from 1-3, with 1 easiest and 3 hardest. Make sure to tag the issue with this difficulty.
 Describe with a sentence or two why the project is this difficulty level.
 
+### Size and Length of Project
+#### Size
+Define the project as either: 
+
+- **medium: 175 hours**
+- **large: 350 hours**
+
+#### Length
+Specify if the project timeline is **flexible**, and define the project as either **12 weeks or 22 weeks**.
+
 ### Skills
 List skills/technologies that the student should be familiar with. Also tag the issue with these.
 
