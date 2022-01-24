@@ -20,14 +20,9 @@ Give a difficulty level (to replace X) from 1-3, with 1 easiest and 3 hardest. M
 Describe with a sentence or two why the project is this difficulty level.
 
 ### Size and Length of Project
-#### Size
-Define the project as either: 
-
+Define the project commitment as either "medium: 175 hours" or "large: 350 hours" and the timeline between 12 and 22 weeks, for example: 
 - **medium: 175 hours**
-- **large: 350 hours**
-
-#### Length
-Specify if the project timeline is **flexible**, and define the project as either **12 weeks or 22 weeks**.
+- **12 weeks**
 
 ### Skills
 List skills/technologies that the student should be familiar with. Also tag the issue with these.
