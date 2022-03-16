@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-*Note to idea author: Starting in 2021, GSoC projects will be shorter, 10 weeks and 175 hours. Make sure the scope of your project takes this into account.*
+*Note to idea author: In 2022, GSoC projects are either 175 hours or 350 hours, and the project length can be between 12 and 22 weeks. Make sure the scope of your project takes this into account.*
 
 ### Background
 Describe the current state of the project and the main problem or issue being addressed by the proposed idea. Details should include links and references. 
@@ -16,7 +16,7 @@ Describe the current state of the project and the main problem or issue being ad
 Describe what the end result of the GSoC project should be.
 
 ### Difficulty Level X
-Give a difficulty level (to replace X) from 1-3, with 1 easiest and 3 hardest. Make sure to tag the issue with this difficulty.
+Give a difficulty level (to replace X) either Easy, Medium or Hard. Make sure to tag the issue with this difficulty.
 Describe with a sentence or two why the project is this difficulty level.
 
 ### Size and Length of Project
