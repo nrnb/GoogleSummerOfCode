@@ -15,7 +15,7 @@ Describe the current state of the project and the main problem or issue being ad
 ### Goal
 Describe what the end result of the GSoC project should be.
 
-### Difficulty Level X
+### Difficulty Level: Easy/Medium/Hard
 Give a difficulty level (to replace X) either Easy, Medium or Hard. Make sure to tag the issue with this difficulty.
 Describe with a sentence or two why the project is this difficulty level.
 
