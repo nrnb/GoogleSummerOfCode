@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-*Note to idea author: In 2023, GSoC projects are either ~175 hours(medium) or ~350 hours(large), and the project length can be between 10 and 22 weeks, with a start date of May 29, 2023. Make sure the scope of your project takes this into account.*
+*Note to idea author: As of 2024, GSoC projects are either ~90 hours (small), ~175 hours(medium) or ~350 hours(large), and the project length can be between 10 and 22 weeks. For small projects, it is highly recommended that the project length be 10-12 weeks. Make sure the scope of your project takes this into account.*
 
 ### Background
 Describe the current state of the project and the main problem or issue being addressed by the proposed idea. Details should include links and references. 
@@ -20,9 +20,11 @@ Give a difficulty level, either Easy, Medium or Hard. Make sure to tag the issue
 Describe with a sentence or two why the project is this difficulty level.
 
 ### Size and Length of Project
-Define the project commitment as either "medium: 175 hours" or "large: 350 hours" and the timeline between 10 and 22 weeks, for example: 
+Define the project commitment as either “small: 90 hours", "medium: 175 hours" or "large: 350 hours" and the timeline between 10 and 22 weeks, for example: 
 - **medium: 175 hours**
 - **12 weeks**
+
+Note that the project length for small projects should be 10-12 weeks.
 
 ### Skills
 List skills/technologies that the student should be familiar with. Also tag the issue with these.
