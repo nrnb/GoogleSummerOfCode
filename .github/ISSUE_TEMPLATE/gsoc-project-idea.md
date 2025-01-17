@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-*Note to idea author: As of 2024, GSoC projects are either ~90 hours (small), ~175 hours(medium) or ~350 hours(large), and the project length can be between 10 and 22 weeks. For small projects, it is highly recommended that the project length be 10-12 weeks. Make sure the scope of your project takes this into account.*
+*Note to idea author: Starting in 2024, GSoC projects are either ~90 hours (small), ~175 hours(medium) or ~350 hours(large), and the project length can be between 10 and 22 weeks. For small projects, it is highly recommended that the project length be 10-12 weeks. Make sure the scope of your project takes this into account.*
 
 ### Background
 Describe the current state of the project and the main problem or issue being addressed by the proposed idea. Details should include links and references. 
