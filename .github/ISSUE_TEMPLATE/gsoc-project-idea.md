@@ -7,7 +7,9 @@ assignees: ''
 
 ---
 
-*Note to idea author: Starting in 2024, GSoC projects are either ~90 hours (small), ~175 hours(medium) or ~350 hours(large), and the project length can be between 10 and 22 weeks. For small projects, it is highly recommended that the project length be 10-12 weeks. Make sure the scope of your project takes this into account.*
+*Instructions for project idea author: 
+New in 2026, each project idea should clearly define the AI usage policy of the project/group. A section for AI Usage Policy has been added to this template for this purpose. See [Google's guidance for mentors](https://docs.google.com/document/d/1jglptdn_DovOxjwuhzORn3QhYoeBcToS7ymk3IIWHKY/edit?usp=sharing) for more information.
+GSoC projects are either ~90 hours (small), ~175 hours(medium) or ~350 hours(large), and the project length can be between 10 and 22 weeks, with a standard length of 12 weeks. Small projects can range from 8 to 12 weeks. Make sure the scope of your project takes this into account. *
 
 ### Background
 Describe the current state of the project and the main problem or issue being addressed by the proposed idea. Details should include links and references. 
@@ -36,3 +38,6 @@ Link to a public, open-source repository for your project. _All code from accept
 
 ### Potential Mentors
 List the names and email contacts for potential mentors.
+
+### AI Usage Policy
+Clearly state the policy of your organization/group for the use of AI tools in GSoC projects.
