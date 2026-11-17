@@ -4,4 +4,4 @@ This repo  uses the [issue tracker](https://github.com/nrnb/GoogleSummerOfCode/i
 # Contributor Guidance
 To get started on a proposal, use the [template](https://docs.google.com/document/d/1UdlsHvWoP3lU7QAPzlqs1ctQKeaWrXwdcOEuSIkdmio/edit?usp=sharing)
 
-**More details about NRNB GSoC can be found at http://www.nrnb.org/gsoc.html**
+**More details about NRNB GSoC can be found at http://nrnb.org/gsoc.html**
